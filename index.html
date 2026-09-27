@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzlebox | Brain Games</title>
+    <link rel="stylesheet" href="style.css">
+</head>    
+<body>
+    <header>
+        <div class="logo">
+            PuzzleBox
+        </div>
+    </header>
+    <main>
+        <section id="home" class="screen active">
+            <div class="hero">
+                <p class="subtitle">BRAIN GAME ARCADE</p>
+                <h1>PuzzleBox</h1>
+                <p>
+                    Test your memory,logic,and pattern recognition.
+                </p>
+            </div>
+            <div class="game-grid">
+                <button class="game-card" onclick="startGame('memory')">
+                    <span class="game-icon">🧠</span>
+                    <h2>Memory Match</h2>
+                    <p>
+                        Find all matching pairs.
+                    </p>
+                </button>
+                <button class="game-card" onclick="startGame('number')">
+                    <span class="game-icon">🔢</span>
+                    <h2>Number Sequence</h2>
+                    <p>
+                        Discover the missing number.
+                    </p>
+                </button>
+                <button class="game-card" onclick="startGame('pattern')">
+                    <span class="game-icon">🔷</span>
+                    <h2>Pattern Puzzle</h2>
+                    <p>
+                        Find what comes next.
+                    </p>
+                </button>
+            </div>
+        </section>
+        <section id="game" class="screen">
+            <div class="game-header">
+                <button class="back-button" onclick="returnHome()">
+                     ← Menu
+                </button>
+                <div>
+                    <span id="gameTitle">Puzzle</span>
+                </div>
+                <div>
+                    Score: <span id="score">0</span>
+                </div>
+            </div>
+            <div class="game-area">
+                <div id="gameContent">
+
+                </div>  
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>
+            PuzzleBox © 2026
+        </p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
