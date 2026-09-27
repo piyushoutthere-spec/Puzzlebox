@@ -1,139 +1,44 @@
-# PuzzleBox 🧩
+# Puzzlebox
+HI! i built this simple and easy web-game as a project. Its basically a 3 different game in one place, kind of arcade.
+My main focus on this project was getting a radient theme for which i browsed different color code and checked which was best.
+Second was to find the logic of game and how i can make it more better for my future projects.
+# What i used
+I used HTML,CSS,javascript to build this web-gam.
+- HTML-for making the structure of the game.
+- CSS-for making the visuals and enhancing the theme.
+- javascript-for handling the interactive and playable face.
+# What are the games?
+### Memory match
+This game has 16 cards of 8 emojis. 
+- You will be allowed to choose any 2 cards out of 16 and you should remember them.
+- later again you should repeat same until you get 8 pairs correct. very simple and easy.
+- I made sure after you finish the game your back to the main menu.
+- It has its own display card and also a subtitle below the name.
 
-I built this small and simple 3 game arcade space with HTML, CSS, and JavaScript.
+### Number sequence
+- certain random numbers are provided.
+- They will have a particular pattern.
+- You need to identify that and write the answer.
+- Its simple and easy.
+- It has its own display card and also a subtitle.
 
-It contains multiple short puzzle games designed to test memory, number reasoning, and pattern recognition.
-I have mainly focused in making theme good looking using unique colors and the logic of how the game will work
-so i kept it simple and easy as i am still learning how further level of coding works!
+### Pattern Puzzle
+- Certain random emoji's are present.
+- They are arranged in a pattern.
+- Different options are provided to predict the pattern
+- You will have to choose predictions from given options
+- Its very easy and simple
+- It also has its own display card and subtile.
 
-##  Live Demo
+# My main agenda!
+My main aim is to learn the logic behind the working of this game. I did not make it difficult 
+because i wanted to experiment how it turns out. I learned the logic behind it.
 
-https://piyushoutthere-spec.github.io/Puzzlebox/
+# Future plan
+I am thinking to add few more games and make a app or web where there are many games with different
+difficulty level and background theme to change. also i am trying to learn to provide a personalization option for the user.
 
-##  Repository
 
-https://github.com/piyushoutthere-spec/Puzzlebox
-
----
-
-#  Games
-
-PuzzleBox currently includes three playable games.
-
-## Memory Match
-
-A classic memory matching game.
-
-The board contains 8 pairs of symbols. You flip two cards at a time and try to remember the positions of previously revealed cards.
-
-### Features
-
-- 16 cards
-- 8 matching pairs
-- Randomized card positions
-- Cards lock temporarily while mismatched cards are being checked
-- Automatic return to the main menu after completing the board
-
-Each successful pair awards points.
-
----
-
-## Number Sequence
-
-A mathematical sequence puzzle where you have to determine the missing number.
-
-Examples include:
-
-- `2 → 4 → 6 → ?`
-- `3 → 6 → 12 → ?`
-- `1 → 2 → 4 → ?`
-- `100 → 90 → 80 → ?`
-
-The game randomly selects a sequence from a collection of different challenges.
-
-### Features
-
-- Randomized questions
-- Number input
-- Automatic answer checking
-- Correct and incorrect feedback
-- Score system
-- New question after a correct answer
-
----
-
-## Pattern Puzzle
-
-A visual pattern-recognition game.
-
-Your are shown a repeating sequence of symbols and must choose which symbol should come next.
-
-Example:
-
-`🔴 🔵 🔵 🔴 🔵 🔵 ?`
-
-You need to choose the answer from several options.
-
-### Features
-
-- Randomized patterns
-- Multiple-choice answers
-- Immediate feedback
-- New pattern after a correct answer
-
----
-
-# ✨ Features
-
-## Main Menu
-
-The main menu provides access to all three games.
-
-Each game has its own card with:
-
-- Game icon
-- Game name
-- Short description
-- Clickable interface
-
----
-
-## Responsive Design
-
-The interface is designed to work across different screen sizes.
-
-The game cards change from a multi-column layout to a single-column layout on smaller screens.
-
----
-
-## No Account Required
-
-PuzzleBox does not require:
-
-- Login
-- Account creation
-
-The games run directly in the browser.
-
----
-
-#  Technology
-
-PuzzleBox is built using standard web technologies.
-
-### HTML
-
-I this used to create the structure of the application.
-
-### CSS
-
-I used this for the visual design and responsive layout.
-
-### JavaScript
-
-I used this to handle the interactive functionality.
-
----
 
 # Screenshots
 <img width="1893" height="908" alt="image" src="https://github.com/user-attachments/assets/0e013fe1-5621-42b6-8f1f-2f8ca0565bca" />
