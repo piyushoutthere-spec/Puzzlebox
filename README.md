@@ -29,6 +29,19 @@ This game has 16 cards of 8 emojis.
 - You will have to choose predictions from given options
 - Its very easy and simple
 - It also has its own display card and subtile.
+# Getting started
+### Dependency
+- windows10 or 11
+### Installing
+- can be easily accessed by link https://piyushoutthere-spec.github.io/Puzzlebox/
+- No need to download or modify any file
+### Executing program
+- The program executes as soon as you click the previous link
+# Help
+- If the program fails try reloading the browser.
+# License
+- PuzzleBox was created as a personal learning and development project.
+
 
 # My main agenda!
 My main aim is to learn the logic behind the working of this game. I did not make it difficult 
