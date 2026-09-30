@@ -54,10 +54,8 @@ difficulty level and background theme to change. also i am trying to learn to pr
 
 
 # Screenshots
-<img width="1893" height="908" alt="image" src="https://github.com/user-attachments/assets/0e013fe1-5621-42b6-8f1f-2f8ca0565bca" />
-<img width="1888" height="911" alt="image" src="https://github.com/user-attachments/assets/00aaf6f5-029f-4b4f-b4eb-4fed1727f68d" />
-<img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/ec744bf6-78a9-4115-b4b8-3ce8dd2d0bff" />
-<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/924ddc6e-faeb-48c9-8451-6d242f8d8ad9" />
+<img width="1891" height="912" alt="Screenshot 2026-09-30 142623" src="https://github.com/user-attachments/assets/4e51b00a-8a9a-46c1-933e-d743b76ed92b" />
+
 
 
 
